@@ -34,7 +34,7 @@ pip install pillow numpy matplotlib
 Run a lab and follow the prompts (paths to the input image and output folder):
 
 ```bash
-python lab5/lab5/lab5.py
+python lab5/lab5.py
 ```
 
 ## Author
