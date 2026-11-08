@@ -15,6 +15,17 @@ The labs cover digital image processing: format conversion, color and contrast a
 | 5 | Edge detection with filters | Directional compass masks (south-east, south) applied by convolution on the brightness channel | [lab5](./lab5) |
 | 6 | Image noise and filtering quality | Gaussian and salt-and-pepper noise, linear and non-linear filters (mean, Gaussian, median, min, max, midpoint, trimmed mean, geometric mean), distortion metrics | [lab6](./lab6) |
 
+## STEM project
+
+Team project (3 people): analysis of satellite / aerial land imagery (UC Merced Land Use) with classical methods, no AI/ML. It lives in a separate team repository.
+
+| Part | What I did | Link |
+|------|------------|------|
+| Pipeline 3 | Bilateral filter → binary erosion/dilation with a disk element → Laplacian edge map | [src/member2/pipeline1](https://github.com/sashaagapov/stem-image-processing/tree/Tymofii-branch/src/member2/pipeline1) |
+| Pipeline 4 | FFT frequency filter → GLCM texture map → unsharp mask | [src/member2/pipeline2](https://github.com/sashaagapov/stem-image-processing/tree/Tymofii-branch/src/member2/pipeline2) |
+
+Repository: [sashaagapov/stem-image-processing](https://github.com/sashaagapov/stem-image-processing) (my branch: [`Tymofii-branch`](https://github.com/sashaagapov/stem-image-processing/tree/Tymofii-branch)).
+
 ## Tech stack
 
 - Python 3
