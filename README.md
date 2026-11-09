@@ -21,10 +21,10 @@ Team project (3 people): analysis of satellite / aerial land imagery (UC Merced 
 
 | Part | What I did | Link |
 |------|------------|------|
-| Pipeline 3 | Bilateral filter → binary erosion/dilation with a disk element → Laplacian edge map | [src/member2/pipeline1](https://github.com/sashaagapov/stem-image-processing/tree/Tymofii-branch/src/member2/pipeline1) |
-| Pipeline 4 | FFT frequency filter → GLCM texture map → unsharp mask | [src/member2/pipeline2](https://github.com/sashaagapov/stem-image-processing/tree/Tymofii-branch/src/member2/pipeline2) |
+| Pipeline 3 | Bilateral filter → binary erosion/dilation with a disk element → Laplacian edge map | [src/member2/pipeline1](https://github.com/sashaagapov/stem-image-processing/tree/main/src/member2/pipeline1) |
+| Pipeline 4 | FFT frequency filter → GLCM texture map → unsharp mask | [src/member2/pipeline2](https://github.com/sashaagapov/stem-image-processing/tree/main/src/member2/pipeline2) |
 
-Repository: [sashaagapov/stem-image-processing](https://github.com/sashaagapov/stem-image-processing) (my branch: [`Tymofii-branch`](https://github.com/sashaagapov/stem-image-processing/tree/Tymofii-branch)).
+Repository: [sashaagapov/stem-image-processing](https://github.com/sashaagapov/stem-image-processing).
 
 ## Tech stack
 
